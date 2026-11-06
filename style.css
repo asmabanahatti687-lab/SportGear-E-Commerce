@@ -1,0 +1,9 @@
+/* 
+  Custom styles for SportGear 
+  Note: This website primarily utilizes Tailwind CSS utility classes loaded via CDN in index.html.
+  You can add any custom CSS overrides or additional styles here.
+*/
+
+html {
+    scroll-behavior: smooth;
+}
